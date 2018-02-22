@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.nbcuni.template</groupId>
+  <groupId>com.nbcuni.spring-boot-archetypes</groupId>
   <artifactId>spring-boot-quickstart</artifactId>
   <version>1.0.0</version>
   <packaging>maven-archetype</packaging>
@@ -14,8 +14,8 @@
   <!-- Properties -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.archetype-packaging.version>2.4</maven.archetype-packaging.version>
-    <maven.maven-archetype-plugin.version>2.4</maven.maven-archetype-plugin.version>
+    <maven.archetype-packaging.version>3.0.1</maven.archetype-packaging.version>
+    <maven.maven-archetype-plugin.version>3.0.1</maven.maven-archetype-plugin.version>
     <maven.maven-resources-plugin.version>3.0.2</maven.maven-resources-plugin.version>
   </properties>
 
