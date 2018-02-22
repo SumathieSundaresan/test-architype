@@ -1,10 +1,10 @@
-package ${package}.${artifactId}.config;
+package ${package}.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import ${package}.${artifactId}.controllers.VersionController
+import ${package}.controllers.VersionController
 
 @Configuration
 public class ApiConfig {

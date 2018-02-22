@@ -1,4 +1,4 @@
-package ${package}.${artifactId}.controllers;
+package ${package}.controllers;
 
 import java.util.HashMap;
 import java.util.Map;
