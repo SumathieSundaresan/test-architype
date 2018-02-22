@@ -14,8 +14,8 @@
   <!-- Properties -->
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.archetype-packaging.version>3.0.1</maven.archetype-packaging.version>
-    <maven.maven-archetype-plugin.version>3.0.1</maven.maven-archetype-plugin.version>
+    <maven.archetype-packaging.version>2.4</maven.archetype-packaging.version>
+    <maven.maven-archetype-plugin.version>2.4</maven.maven-archetype-plugin.version>
     <maven.maven-resources-plugin.version>3.0.2</maven.maven-resources-plugin.version>
   </properties>
 
