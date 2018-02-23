@@ -5,15 +5,15 @@ import org.springframework.boot.SpringBootConfiguration;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Import;
-import ${package}.${artifactId}.config.ApiConfig;
+import ${package}.${artifactId}.config.AppConfig;
 
 
 @SpringBootConfiguration
 @EnableAutoConfiguration
-@Import(ApiConfig.class)
-public class TemplateApplication {
+@Import(AppConfig.class)
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TemplateApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }

@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import ${package}.${artifactId}.controllers.VersionController;
 
 @Configuration
-public class ApiConfig {
+public class AppConfig {
 
 
     @Bean
