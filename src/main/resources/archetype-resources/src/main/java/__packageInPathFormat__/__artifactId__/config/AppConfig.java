@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import ${package}.${artifactId}.controllers.VersionController;
 
 @Configuration
+@EnableSwagger2
 public class AppConfig {
 
 
